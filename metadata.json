@@ -1,0 +1,5 @@
+{
+  "name": "Rod Waste Reducer",
+  "description": "An application for an aluminum workshop to calculate the optimal cutting plan for rods to minimize waste, considering blade thickness. || تطبيق لورشة ألمنيوم لحساب خطة القطع المثلى للقضبان لتقليل الفاقد، مع مراعاة سماكة الشفرة.",
+  "requestFramePermissions": []
+}
